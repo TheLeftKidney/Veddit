@@ -5,7 +5,7 @@ Plan the functions to write for the backend and frontend :|
     Commenting on posts
     Opening posts (MORE BUTTON)
     Creating subveddits (OWNER ONLY?)
-    Creating new accounts (OWNER ONLY?) (Need way to prevent spam)
+    Creating new accounts 
     Deleting posts (Subveddit admin only)
     Algo for popular subveddit display 
     OWNER are like teachers while admins manage one or more subveddit at a time 
